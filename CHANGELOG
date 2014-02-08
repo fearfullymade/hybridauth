@@ -1,6 +1,17 @@
 Hybridauth Change log
 =====================
 
+2.1.2 - as of 7 feb 2014
+	Foursquare API update (https://github.com/hybridauth/hybridauth/pull/149)
+	Fix Yandex provider birthdate if return null (https://github.com/hybridauth/hybridauth/pull/147)
+	Disqus API updated (https://github.com/hybridauth/hybridauth/pull/141)
+	Steam provider tunning (https://github.com/hybridauth/hybridauth/pull/128)
+	Facebook provider update (https://github.com/hybridauth/hybridauth/pull/126)
+	Fix typo in exception throw (https://github.com/hybridauth/hybridauth/pull/124)
+	Updates to Google provider (https://github.com/hybridauth/hybridauth/pull/119)
+	
+	
+
 2.1.1 - 29 dec 2012 
 	Remove OAuth PECL conflict with OAuth PHP Library (https://github.com/hybridauth/hybridauth/issues/59)
 	Update Facebook PHP SDK (v.3.2.2) (https://github.com/hybridauth/hybridauth/pull/70)
